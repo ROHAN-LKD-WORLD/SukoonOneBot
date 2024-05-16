@@ -1,7 +1,7 @@
 {
-    "name": "SUKOON MUSIC",
+    "name": "SUKOON ONE",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://telegra.ph/file/b1150f226acd4e315a736.jpg",
+    "logo": "https://telegra.ph/file/4ff36276549e67138ad58.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -29,7 +29,7 @@
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "",
+        "value": "mongodb+srv://SukoonOneBot:SukoonOneBot@cluster0.khjz4kj.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
         "required": true
       },
       "OWNER_ID": {
